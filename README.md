@@ -1,4 +1,4 @@
-# Posture Coach — Webcam Posture Classifier
+# Posture Coach 
 Ekam Nijjar & Kaleb Vinthers
 ## Overview
 
