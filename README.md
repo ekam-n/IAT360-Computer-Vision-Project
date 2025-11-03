@@ -1,4 +1,5 @@
 # Posture Coach — Webcam Posture Classifier
+Ekam Nijjar & Kaleb Vinthers
 ## Overview
 
 Posture Coach is a lightweight computer-vision project that classifies laptop-style webcam images into three posture states: looks good, sit up straight, and straighten head. The goal is practical quality-of-life feedback for students and desk workers: short, fast fine-tunes on a small YOLO classification backbone; real-time inference from a straight-on, upper-body view; and simple alerts that encourage healthier habits. We optimized for common study setups—indoor lighting, typical laptop camera angles, and everyday clothing—while keeping the model small enough to run smoothly on consumer hardware.
