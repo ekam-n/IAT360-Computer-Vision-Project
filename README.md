@@ -8,7 +8,7 @@ Posture Coach is a lightweight computer-vision project that classifies laptop-st
 Base dataset (train/val only): Roboflow Posture Correction v4 — https://universe.roboflow.com/posturecorrection/posture_correction_v4
 
 Used only the train and validation splits for training and validation.
-License: CC BY 4.0 — provide attribution, link to the license, and indicate if changes were made.
+License: CC BY 4.0
 
 Test set (ours): We collected a laptop-POV test split to better match the intended use. Only this test split is included in the repo.
 
